@@ -1,6 +1,4 @@
 # Pythonic Monopoly: Using Data Visualization, Pyviz and MapBox
-
-### About ###
 -----------------------------
 This repository includes a python Jupyter notebook and associated files for Pythonic Monopoly exercises 
 
