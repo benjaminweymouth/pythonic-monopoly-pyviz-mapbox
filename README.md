@@ -10,3 +10,5 @@ In order to run this code you must have installed the following items:
 * Hvplot 
 * Matplotlib and pyplot
 * Path and all required import statements 
+* You must have a MapBox account and API 
+* Place the API key in an environment variable file, to reference in your local file explorer. 
