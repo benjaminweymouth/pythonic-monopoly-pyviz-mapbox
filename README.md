@@ -1,6 +1,7 @@
 # Pythonic Monopoly: Using Data Visualization, Pyviz and MapBox
 -----------------------------
-[![DashBoardRecording]()](https://github.com/benjaminweymouth/pythonic-monopoly-pyviz-mapbox/blob/main/Data/DashboardRecording.gif)
+[![DashBoardRecording](/data/DashboardRecording.gif)](https://github.com/benjaminweymouth/pythonic-monopoly-pyviz-mapbox/blob/main/Data/DashboardRecording.gif)
+[![WealthSimpleLogo](/images/logo.png)](https://www.wealthsimple.com/en-ca/)
 This repository includes a python Jupyter notebook and associated files for Pythonic Monopoly exercises. The purpose of this code is to demonstrate dashboards, Data Visualization, Pyviz and MapBox.
 
 In order to run this code you must have installed the following items: 
