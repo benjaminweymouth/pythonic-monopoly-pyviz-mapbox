@@ -1,8 +1,8 @@
 # Pythonic Monopoly: Using Data Visualization, Pyviz and MapBox
 -----------------------------
-## DashBoard Video: showing dashboard.ipynb
+## DashBoard Video:  
 ![DashBoardRecording](https://github.com/benjaminweymouth/pythonic-monopoly-pyviz-mapbox/blob/main/Data/DashboardRecording.gif)
-## Rental Analysis Video: showing rental_analysis.ipynb
+## Rental Analysis Video:  
 ![RentalAnalysisRecording](https://github.com/benjaminweymouth/pythonic-monopoly-pyviz-mapbox/blob/main/Data/RentalAnalysisRecording.gif)
  
 This repository includes a python Jupyter notebook and associated files for Pythonic Monopoly exercises. The purpose of this code is to demonstrate dashboards, Data Visualization, Pyviz and MapBox.
